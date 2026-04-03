@@ -1,0 +1,8 @@
+numpy<2
+opencv-contrib-python==4.8.1.78
+xgboost
+scikit-learn
+scikit-image
+matplotlib
+pandas
+tqdm
